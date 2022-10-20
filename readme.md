@@ -79,7 +79,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Alice](a/Alice.alice)
 * [Alore](a/Alore.alore)
 * [AlPhAbEt](a/AlPhAbEt.abc)
-* [Amiga E](a/Amiga E.amiga-e)
+* [Amiga E](a/Amiga%20E.amiga-e)
 * [Amos](a/Amos)
 * [AnalF*ck](a/AnalF%2Ack.af)
 * [And](a/And)
